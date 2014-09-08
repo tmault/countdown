@@ -14,4 +14,4 @@ This is hosted at http://tmault.co.uk and is purposefully rough around the edges
 Some think such a tool is macabre, but I find it useful for framing long-term decisions - this isn't the pakce to debate its merits or rough nature!
 
 ## License
-Licensed using (Unlicense)[http://unlicense.org].
+Licensed using http://unlicense.org
