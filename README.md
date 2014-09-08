@@ -13,5 +13,7 @@ This is hosted at http://tmault.co.uk and is purposefully rough around the edges
 
 Some think such a tool is macabre, but I find it useful for framing long-term decisions - this isn't the pakce to debate its merits or rough nature!
 
+*Note!* This repository contains a few assets that are specific to deployment on my domain (e.g. my favicon).
+
 ## License
 Licensed using http://unlicense.org
