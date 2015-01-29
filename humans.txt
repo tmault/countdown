@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Thomas Mault -- Lead Project Dude -- @tmault
+    Thomas Mault -- Knocked together this thing quickly -- @tmault
 
 # THANKS
 
@@ -11,5 +11,4 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    HTML, CSS and Google Web Fonts
