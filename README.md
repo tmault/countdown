@@ -5,7 +5,7 @@ A really simple, inelegant countdown based on a quote from Ray Avery.
 
 It counts down in days, cognisant of the fact that the average humans has about 30'000 days in the bank.
 
-This is hosted at http://tmault.co.uk and is purposefully rough around the edges. 
+This is hosted at http://tmault-days.bitballoon.com and is purposefully rough around the edges. 
 
 ## Getting Your Own Version Up and Running
 * It uses UNIX time, so to get your own copy up and running, just change those details. 
